@@ -1,11 +1,11 @@
 # Colorer
  Simple solution for in-text tags for console coloring in Python
 
-Import:
+## Import:
 
  `from color import Color`
 
-Usage:
+## Usage:
 
 `Color.print("<r>Red <g>Green")`
 
